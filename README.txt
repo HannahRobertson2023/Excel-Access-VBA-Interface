@@ -1,3 +1,5 @@
--My VBA for Homework 3 is under GradeCalc2.0 in the Homework3 sheet. 
+-This is a mock grade calculator that reads grades from both Excel and Access databases, then calculates the grade in the main excel file. 
+-TO USE:
+-Go to the Homework 3.xlsm file, push the button. A pop up will come up; enter the following data when asked for the appropriate tables.
 -My student/test data is Students.accdb, in the StudentsTable, and in the Students.xlsx sheet. Please be sure to specify the right table in the user form!
 -Please do not enter file extensions into the user forms.
