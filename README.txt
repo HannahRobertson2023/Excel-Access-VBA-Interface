@@ -1,0 +1,3 @@
+-My VBA for Homework 3 is under GradeCalc2.0 in the Homework3 sheet. 
+-My student/test data is Students.accdb, in the StudentsTable, and in the Students.xlsx sheet. Please be sure to specify the right table in the user form!
+-Please do not enter file extensions into the user forms.
